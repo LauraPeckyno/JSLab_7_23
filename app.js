@@ -5,8 +5,8 @@ let name = "Laura"
 let city = "Pittsburgh"
 let state = "PA"
 let moves = 12
-let myStreet ="Stanton"
-let houseType ="apartment"
+let myStreet = "Stanton"
+let houseType = "apartment"
 let pets = "cats"
 
 let cityState = (city + ", " + state)
@@ -22,13 +22,13 @@ if (moves >= x) {
 }
 
 console.log (y);
-if (car = "volvo") {
+if (car === "volvo") {
     console.log ("I own a " +car);
 } else {
     console.log ("I don't own a car.");
 }
 
-if (pets = "cats") {
+if (pets === "cats") {
     console.log ("I have a cat");
 } else {
     console.log ("you need a cat.");
