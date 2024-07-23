@@ -34,4 +34,4 @@ if (pets = "cats") {
     console.log ("you need a cat.");
 }
 
-console.log ("Hi. " + "My name is " +name + ". I live with my " + pets + " in an " + houseType +" on " +myStreet + "in " + cityState + ". I own a " + myCar + " and I've moved " + moves + " times.");
+console.log ("Hi. " + "My name is " +name + ". I live with my " + pets + " in an " + houseType +" on " +myStreet + " in " + cityState + ". I own a " + myCar + " and I've moved " + moves + " times.");
